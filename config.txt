@@ -1,7 +1,7 @@
 token = BOT_TOKEN
 owner = BOT_OWNER
 prefix = "BOT_PREFIX"
-game = "DEFAULT"
+game = "BOT_PREFIX p"
 status = dnd
 songinstatus=false
 altprefix = "NONE"

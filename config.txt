@@ -38,7 +38,7 @@ aliases {
   movetrack = [ move ]
   pause = []
   playnext = []
-  repeat = []
+  repeat = [ loop ]
   skipto = [ jumpto ]
   stop = []
   volume = [ vol ]

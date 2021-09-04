@@ -15,7 +15,7 @@ npimages = false
 stayinchannel = true
 maxtime = 0
 playlistsfolder = "Playlists"
-updatealerts=true
+updatealerts=false
 lyrics.default = "A-Z Lyrics"
 aliases {
   settings = [ status ]
